@@ -29,7 +29,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "B.Sc. graduate in Mathematics and Applied Mathematics from Beijing Normal University, Zhuhai"
   location         : "Zhuhai, China"
-  employer         : "Beijing Normal University, Zhuhai"
+  employer         : "Beijing Normal University,Zhuhai"
   uri              : # URL
   email            : "zezhang751@gmail.com" 
 
@@ -58,7 +58,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
