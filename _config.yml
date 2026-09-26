@@ -24,7 +24,7 @@ repository               : "zhangjieze/zhangjieze.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zhangze.jpg"
   name             : "Ze Zhang"
   pronouns         : # example: "she/her"  
   bio              : "B.Sc. graduate in Mathematics and Applied Mathematics from Beijing Normal University, Zhuhai"
